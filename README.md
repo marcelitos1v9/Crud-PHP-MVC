@@ -1,5 +1,5 @@
 <h1> CRUD em PHP com padrão MVC </h1>
-Esse projeto é um CRUD (Create, Read, Update, Delete) desenvolvido em PHP seguindo o padrão arquitetural MVC (Model-View-Controller). O objetivo é demonstrar como é possível organizar um projeto em camadas, isolando as responsabilidades de cada uma delas e tornando o código mais limpo, legível e fácil de manter.
+Esse projeto é um **CRUD** (Create, Read, Update, Delete) desenvolvido em PHP seguindo o padrão arquitetural **MVC** (Model-View-Controller). O objetivo é demonstrar como é possível organizar um projeto em camadas, isolando as responsabilidades de cada uma delas e tornando o código mais limpo, legível e fácil de manter.
 
 <h3>Tecnologias utilizadas</h3>
 
