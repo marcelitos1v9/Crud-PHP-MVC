@@ -29,10 +29,12 @@ Para utilizar o projeto, siga os passos abaixo:
 
 A seguir, uma breve descrição das pastas e arquivos do projeto:
 
-conexao.php: arquivo de configuração que define as credenciais do banco de dados;
-controllers/: pasta que contém os arquivos responsáveis por controlar a lógica de negócio da aplicação;
-models/: pasta que contém os arquivos responsáveis por abstrair o acesso ao banco de dados;
-views/: pasta que contém os arquivos responsáveis por exibir as informações ao usuário;
-index.php: arquivo principal que define as rotas da aplicação.
-Considerações finais
+* conexao.php: arquivo de configuração que define as credenciais do banco de dados;
+* controllers/: pasta que contém os arquivos responsáveis por controlar a lógica de negócio da aplicação;
+* models/: pasta que contém os arquivos responsáveis por abstrair o acesso ao banco de dados;
+* views/: pasta que contém os arquivos responsáveis por exibir as informações ao usuário;
+* index.php: arquivo principal que define as rotas da aplicação.
+
+<h3>Considerações finais</h3>
+
 Esse projeto foi desenvolvido com o intuito de demonstrar como é possível organizar um projeto em camadas seguindo o padrão arquitetural MVC. No entanto, existem muitas outras formas de organizar um projeto, e a escolha da melhor abordagem depende do contexto e das necessidades específicas de cada projeto.
