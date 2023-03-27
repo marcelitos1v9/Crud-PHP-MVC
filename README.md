@@ -31,6 +31,10 @@ Para utilizar o projeto, siga os passos abaixo:
 https://www.apachefriends.org/pt_br/index.html
 
 ```
+* Ao abrir o <b>XAMP</b> de start no apache e o mysql
+
+![image](https://user-images.githubusercontent.com/123131698/228089281-2c53dc83-456f-4734-9f38-b7b868f696b8.png)
+
 
 * Clone o repositório para sua máquina local:
 
