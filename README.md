@@ -25,19 +25,36 @@ O CRUD permite que o usuário realize as seguintes operações:
 
 Para utilizar o projeto, siga os passos abaixo:
 
-* Clone o repositório para sua máquina local;
+* Instale o XAMP em sua maquina no seguinte link:
 
 ```
-git clone 
+https://www.apachefriends.org/pt_br/index.html
 
 ```
-* Crie um banco de dados MySQL e importe o arquivo database.sql que está na raiz do projeto para criar a tabela necessária;
+
+* Clone o repositório para sua máquina local:
+
+```
+git clone https://github.com/marcelitos1v9/Crud-PHP-MVC.git
+
+```
+* Crie um banco de dados MySQL e importe o arquivo database.sql que está na raiz do projeto para criar a tabela necessária usando o mysql do <b>XAMP</b>
+
+
+![image](https://user-images.githubusercontent.com/123131698/228087148-3e8c2c88-3bcf-4798-8f0b-6609cfe1bca6.png)
+
+
+
 * Configure o arquivo conexao.php com as credenciais do seu banco de dados;
+
+![image](https://user-images.githubusercontent.com/123131698/228087506-0253db5c-5944-4da4-946d-c60e0a497f94.png)
+
+
 * Abra o arquivo index.php no seu navegador e teste as funcionalidades.
 
 A seguir, uma breve descrição das pastas e arquivos do projeto:
 
-* conexao.php: arquivo de configuração que define as credenciais do banco de dados;
+* models/conexao.php: arquivo de configuração que define as credenciais do banco de dados;
 * controllers/: pasta que contém os arquivos responsáveis por controlar a lógica de negócio da aplicação;
 * models/: pasta que contém os arquivos responsáveis por abstrair o acesso ao banco de dados;
 * views/: pasta que contém os arquivos responsáveis por exibir as informações ao usuário;
