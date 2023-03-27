@@ -26,6 +26,11 @@ O CRUD permite que o usuário realize as seguintes operações:
 Para utilizar o projeto, siga os passos abaixo:
 
 * Clone o repositório para sua máquina local;
+
+```
+git clone 
+
+```
 * Crie um banco de dados MySQL e importe o arquivo database.sql que está na raiz do projeto para criar a tabela necessária;
 * Configure o arquivo conexao.php com as credenciais do seu banco de dados;
 * Abra o arquivo index.php no seu navegador e teste as funcionalidades.
