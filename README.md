@@ -52,7 +52,7 @@ git clone https://github.com/marcelitos1v9/Crud-PHP-MVC.git
 
 * Abra o arquivo index.php no seu navegador e teste as funcionalidades.
 
-A seguir, uma breve descrição das pastas e arquivos do projeto:
+<h3>A seguir, uma breve descrição das pastas e arquivos do projeto:</h3>
 
 * models/conexao.php: arquivo de configuração que define as credenciais do banco de dados;
 * controllers/: pasta que contém os arquivos responsáveis por controlar a lógica de negócio da aplicação;
